@@ -1,0 +1,17 @@
+/*
+h1 {
+    margin-left: 20px;
+  }
+  */
+
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+  #map {
+    position: relative;
+    border-radius: 8px;
+    height: 500px;  /* or as desired */
+    width: 100%;  /* This means "100% of the width of its container", the .col-md-8 */
+  }
+
